@@ -8,9 +8,9 @@
         /*etiquetas globales */
 body{ font-family: 'Playfair Display', serif; }
     a  { text-decoration: none; }
-   h1  { color: black; font-size: 45px; }
-   h2   { color: black; font-size: 40px;}
-   h3  { color: black; font-size: 35px; }
+   h1  { color: black; font-size: 50px; }
+   h2   { color: black; font-size: 45px;}
+   h3  { color: black; font-size: 40px; }
    h4 {  color: black; font-size: 14px;  }
    .texto1 { margin-bottom: 30px;}
     span{ font-weight: 600; }
